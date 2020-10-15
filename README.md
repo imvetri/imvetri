@@ -5,5 +5,5 @@
 - 📫 How to reach me: https://twitter.com/VetrivelShanmu3
 
 
-![](https://github.com/imvetri/imvetri/blob/master/download.jepg)
+![](https://github.com/imvetri/imvetri/blob/master/download.jpeg)
 
