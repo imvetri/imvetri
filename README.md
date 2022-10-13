@@ -1,4 +1,4 @@
-
+<div style="display:none">
 Hello,
 
 I am Vetrivel Shanmugam. I am a developer based in Bangalore, India.
@@ -12,3 +12,4 @@ I have spent 2+ years building it and more than that to learn shortcuts, it was 
   <a href="https://raw.githubusercontent.com/imvetri/imvetri/master/vetrivel_a_computer_designing_itself_by_creating_an_exploded_vi_b096c96f-3773-4e03-a4d8-8abe7ec34588.png">
     <img   style=" display: block;margin-left: auto;margin-right: auto;width: 50%;"src="https://raw.githubusercontent.com/imvetri/imvetri/master/vetrivel_a_computer_designing_itself_by_creating_an_exploded_vi_b096c96f-3773-4e03-a4d8-8abe7ec34588.png">
   </a>
+</div>
