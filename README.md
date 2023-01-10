@@ -13,3 +13,9 @@ I have spent 2+ years building it and more than that to learn shortcuts, it was 
     <img   style=" display: block;margin-left: auto;margin-right: auto;width: 50%;"src="https://raw.githubusercontent.com/imvetri/imvetri/master/vetrivel_a_computer_designing_itself_by_creating_an_exploded_vi_b096c96f-3773-4e03-a4d8-8abe7ec34588.png">
   </a>
 </div>
+
+<h3>Checkout my writings</h3>
+Black Mass, Gravity, Qunit unit tests. - <a href="https://www.linkedin.com/pulse/black-mass-gravity-qunit-unit-tests-vetrivel-shanmugam/">Link to article</a>
+Burnt to light - <a href="https://www.youtube.com/watch?v=n5Qz36hd11I">Link to song</a>
+Instruction to build web application builder - <a href="https://www.linkedin.com/pulse/instructions-build-web-application-builder-vetrivel-shanmugam/">Link to article</a>
+First code generator built for reactJS - <a href="https://www.linkedin.com/pulse/first-code-generator-built-reactjs-vetrivel-shanmugam/">Link to article</a>                      
