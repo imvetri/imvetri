@@ -15,7 +15,11 @@ I have spent 2+ years building it and more than that to learn shortcuts, it was 
 </div>
 
 <h3>Checkout my writings</h3>
-Black Mass, Gravity, Qunit unit tests. - <a href="https://www.linkedin.com/pulse/black-mass-gravity-qunit-unit-tests-vetrivel-shanmugam/">Link to article</a>
-Burnt to light - <a href="https://www.youtube.com/watch?v=n5Qz36hd11I">Link to song</a>
-Instruction to build web application builder - <a href="https://www.linkedin.com/pulse/instructions-build-web-application-builder-vetrivel-shanmugam/">Link to article</a>
-First code generator built for reactJS - <a href="https://www.linkedin.com/pulse/first-code-generator-built-reactjs-vetrivel-shanmugam/">Link to article</a>                      
+<b>Black Mass, Gravity, Qunit unit tests. </b>- <a href="https://www.linkedin.com/pulse/black-mass-gravity-qunit-unit-tests-vetrivel-shanmugam/">Link to article</a>
+<br/>
+<b>Burnt to light </b>- <a href="https://www.youtube.com/watch?v=n5Qz36hd11I">Link to song</a>
+<br/>
+<b>Instruction to build web application builder </b>- <a href="https://www.linkedin.com/pulse/instructions-build-web-application-builder-vetrivel-shanmugam/">Link to article</a>
+<br/>
+<b>First code generator built for reactJS </b>- <a href="https://www.linkedin.com/pulse/first-code-generator-built-reactjs-vetrivel-shanmugam/">Link to article</a>              
+<br/>
