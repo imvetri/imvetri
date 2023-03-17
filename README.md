@@ -16,7 +16,7 @@ I have spent 2+ years building it and more than that to learn shortcuts, it was 
 
 <h3>Checkout my writings</h3>
 
-<b>OTT build once, render many place</b>- <a href="https://www.linkedin.com/pulse/black-mass-gravity-qunit-unit-tests-vetrivel-shanmugam/">Link to article</a>
+<b>OTT build once, render many place</b>- <a href="https://www.linkedin.com/pulse/leaky-pipes-build-reactjs-render-canvas-ott-vetrivel-shanmugam">Link to article</a>
 <br/>
 <b>Instruction to build web application builder </b>- <a href="https://www.linkedin.com/pulse/instructions-build-web-application-builder-vetrivel-shanmugam/">Link to article</a>
 <br/>
