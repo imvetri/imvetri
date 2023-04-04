@@ -14,8 +14,13 @@ I have spent 2+ years building it and more than that to learn shortcuts, it was 
   </a>
 </div>
 
-<h3>Checkout my writings</h3>
+<h3>Checkout my writings in my Newsletter called leaky Pipes</h3>
 
+<b>Leaky pipes - The black mass initiative</b><a href="https://www.linkedin.com/pulse/leaky-pipes-black-mass-initiative-vetrivel-shanmugam">Link to article</a>
+<b>Leaky pipes - Black mass design to automate my job</b><a href="https://www.linkedin.com/pulse/leaky-pipes-black-mass-design-automate-job-vetrivel-shanmugam/">Link to article</a>
+<b>Leaky pipes - Visual programming - Blank space</b><a href="https://www.linkedin.com/pulse/leaky-pipes-design-code-vetrivel-shanmugam">Link to article</a>
+<b>Leaky Pipes - Making a design tool</b><a href="https://www.linkedin.com/pulse/leaky-pipes-making-design-tool-vetrivel-shanmugam">Link to article</a>
+<b>Leaky pipes - Designing a designers tool</b><a href="https://www.linkedin.com/pulse/leaky-pipes-designing-designers-tool-vetrivel-shanmugam">Link to article</a>
 <b>OTT build once, render many place</b>- <a href="https://www.linkedin.com/pulse/leaky-pipes-build-reactjs-render-canvas-ott-vetrivel-shanmugam">Link to article</a>
 <br/>
 <b>Instruction to build web application builder </b>- <a href="https://www.linkedin.com/pulse/instructions-build-web-application-builder-vetrivel-shanmugam/">Link to article</a>
