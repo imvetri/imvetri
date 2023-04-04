@@ -18,7 +18,7 @@ I started showing interests in open source project years back, the day I found *
 
 I have spent 2+ years building it and more than that to learn shortcuts, it was fun. I wanted to apply the things I learnt from ui-editor to AI. Like why not build a builder that helps to build neural networks by drawing on a canvas and fire it up? and more ideas started to show up. Spending time on frontend pays me, and investing time for AI is not ideal so I started writing instead of coding. I wrote some simple ideas, implementation designs to try with AI and it occured to me that ML and AI consumes 3-4 years of human brain, which isn't ideal. So I went for alternatives to mathematical model which was unrealistic and wrote **fictional concepts such as neural fluid, neural OS, light as fluid**. The alternative to mathematical model is to go with fluids, apply it together with the **power of light** and I called it neural fluid and an OS with neural fluid in it, I called it neural OS. The early notes about it can be found in my <a href="https://github.com/imvetri/artificial-intelligence">artificial-intelligence</a> repository. A fantasy in my mind is to plug a neural os pendrive to a computer and enjoy the show.
   
-From microfluids with light, I chipped away unwanted concepts from it and I have developed a technique to build an abstract concept called **Black Mass**, you can find about it, in below links.
+From microfluids with light, I chipped away unwanted concepts from it and I have developed a technique to build an abstract concept called **<a href="https://www.linkedin.com/pulse/black-mass-gravity-qunit-unit-tests-vetrivel-shanmugam/">Black Mass</a>**, you can find about it, in below links.
 
 
 </div>
