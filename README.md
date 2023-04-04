@@ -1,3 +1,6 @@
+  <a href="https://raw.githubusercontent.com/imvetri/imvetri/master/vetrivel_a_computer_designing_itself_by_creating_an_exploded_vi_b096c96f-3773-4e03-a4d8-8abe7ec34588.png">
+    <img   style=" display: block;margin-left: auto;margin-right: auto;width: 50%;"src="https://raw.githubusercontent.com/imvetri/imvetri/master/vetrivel_a_computer_designing_itself_by_creating_an_exploded_vi_b096c96f-3773-4e03-a4d8-8abe7ec34588.png">
+  </a>
 <div style="display:none">
 Hello,
 
@@ -11,9 +14,7 @@ I have spent 2+ years building it and more than that to learn shortcuts, it was 
   
 From microfluids with light, I chipped away unwanted concepts from it and I have developed a technique to build an abstract concept called **Black Mass**, you can find about it, in below links.
 
-  <a href="https://raw.githubusercontent.com/imvetri/imvetri/master/vetrivel_a_computer_designing_itself_by_creating_an_exploded_vi_b096c96f-3773-4e03-a4d8-8abe7ec34588.png">
-    <img   style=" display: block;margin-left: auto;margin-right: auto;width: 50%;"src="https://raw.githubusercontent.com/imvetri/imvetri/master/vetrivel_a_computer_designing_itself_by_creating_an_exploded_vi_b096c96f-3773-4e03-a4d8-8abe7ec34588.png">
-  </a>
+
 </div>
 
 <h3>Checkout my writings</h3>
