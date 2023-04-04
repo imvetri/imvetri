@@ -37,4 +37,3 @@ I have spent 2+ years building it and more than that to learn shortcuts, it was 
 <br/>
 <b>First code generator built for reactJS </b>- <a href="https://www.linkedin.com/pulse/first-code-generator-built-reactjs-vetrivel-shanmugam/">Open the article</a>              
 <br/>
-<script>alert()</script>
