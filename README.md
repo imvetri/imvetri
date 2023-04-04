@@ -1,8 +1,12 @@
-  <a href="https://raw.githubusercontent.com/imvetri/imvetri/master/vetrivel_a_computer_designing_itself_by_creating_an_exploded_vi_b096c96f-3773-4e03-a4d8-8abe7ec34588.png">
+<div>
+<a href="https://raw.githubusercontent.com/imvetri/imvetri/master/vetrivel_a_computer_designing_itself_by_creating_an_exploded_vi_b096c96f-3773-4e03-a4d8-8abe7ec34588.png">
     <img   style=" display: block;margin-left: auto;margin-right: auto;width: 50%;"src="https://raw.githubusercontent.com/imvetri/imvetri/master/vetrivel_a_computer_designing_itself_by_creating_an_exploded_vi_b096c96f-3773-4e03-a4d8-8abe7ec34588.png">
-  </a>  <a href="https://raw.githubusercontent.com/imvetri/imvetri/master/Black_Mass.png">
+  </a>  
+  
+  <a href="https://raw.githubusercontent.com/imvetri/imvetri/master/Black_Mass.png">
     <img   style=" display: block;margin-left: auto;margin-right: auto;width: 50%;"src="https://raw.githubusercontent.com/imvetri/imvetri/master/Black_Mass.png">
   </a>
+  </div>
 <div style="display:none">
 Hello,
 
