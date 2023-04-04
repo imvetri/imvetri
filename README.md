@@ -4,7 +4,7 @@
   </a>  
   
   <a href="https://raw.githubusercontent.com/imvetri/imvetri/master/Black_Mass.png">
-    <img   style=" display: block;margin-left: auto;margin-right: auto;width: 50%;"src="https://raw.githubusercontent.com/imvetri/imvetri/master/Black_Mass.png">
+    <img   style=" display: block;margin-left: auto;margin-right: auto;width: 45%;"src="https://raw.githubusercontent.com/imvetri/imvetri/master/Black_Mass.png">
   </a>
   </div>
 <div style="display:none">
