@@ -15,25 +15,25 @@ I have spent 2+ years building it and more than that to learn shortcuts, it was 
 </div>
 
 <h3>Checkout my writings</h3>
-<b>Leaky Pipes - AI and ML versus UI</b><a href="https://www.linkedin.com/pulse/leaky-pipes-ai-ml-versus-ui-vetrivel-shanmugam">Click here to open the article</a>
+<b>Leaky Pipes - AI and ML versus UI</b><a href="https://www.linkedin.com/pulse/leaky-pipes-ai-ml-versus-ui-vetrivel-shanmugam">Open the article</a>
 <br/>
-<b>Leaky pipes - Designing a designers tool</b><a href="https://www.linkedin.com/pulse/leaky-pipes-designing-designers-tool-vetrivel-shanmugam">Click here to open the article</a>
+<b>Leaky pipes - Designing a designers tool</b><a href="https://www.linkedin.com/pulse/leaky-pipes-designing-designers-tool-vetrivel-shanmugam">Open the article</a>
 <br/>
-<b>Leaky pipes - Visual programming - Blank space</b><a href="https://www.linkedin.com/pulse/leaky-pipes-visual-programming-blank-space-vetrivel-shanmugam/">Click here to open the article</a>
+<b>Leaky pipes - Visual programming - Blank space</b><a href="https://www.linkedin.com/pulse/leaky-pipes-visual-programming-blank-space-vetrivel-shanmugam/">Open the article</a>
 <br/>
-<b>Leaky pipes - My thoughts on Appsmith - Scaling from internal tool to Design to code</b><a href="https://www.linkedin.com/pulse/leaky-pipes-design-code-vetrivel-shanmugam/">Click here to open the article</a>
+<b>Leaky pipes - My thoughts on Appsmith - Scaling from internal tool to Design to code</b><a href="https://www.linkedin.com/pulse/leaky-pipes-design-code-vetrivel-shanmugam/">Open the article</a>
 <br/>
-<b>Leaky pipes - Black Mass design to Automate Job</b><a href="https://www.linkedin.com/pulse/leaky-pipes-black-mass-design-automate-job-vetrivel-shanmugam">Click here to open the article</a>
+<b>Leaky pipes - Black Mass design to Automate Job</b><a href="https://www.linkedin.com/pulse/leaky-pipes-black-mass-design-automate-job-vetrivel-shanmugam">Open the article</a>
 <br/>
-<b>Leaky Pipes - Build in ReactJS and render in canvas for OTT platforms</b><a href="https://www.linkedin.com/pulse/leaky-pipes-build-reactjs-render-canvas-ott-vetrivel-shanmugam">Click here to open the article</a>
+<b>Leaky Pipes - Build in ReactJS and render in canvas for OTT platforms</b><a href="https://www.linkedin.com/pulse/leaky-pipes-build-reactjs-render-canvas-ott-vetrivel-shanmugam">Open the article</a>
 <br/>
-<b>Leaky Pipes - The black mass initiative</b><a href="https://www.linkedin.com/pulse/leaky-pipes-black-mass-initiative-vetrivel-shanmugam/">Click here to open the article</a>
+<b>Leaky Pipes - The black mass initiative</b><a href="https://www.linkedin.com/pulse/leaky-pipes-black-mass-initiative-vetrivel-shanmugam/">Open the article</a>
 <br/>
-<b>Black Mass, Gravity, Qunit unit tests.</b><a href="https://www.linkedin.com/pulse/black-mass-gravity-qunit-unit-tests-vetrivel-shanmugam/">Click here to open the article</a>
+<b>Black Mass, Gravity, Qunit unit tests.</b><a href="https://www.linkedin.com/pulse/black-mass-gravity-qunit-unit-tests-vetrivel-shanmugam/">Open the article</a>
 <br/>
-<b>OTT build once, render many place</b>- <a href="https://www.linkedin.com/pulse/leaky-pipes-build-reactjs-render-canvas-ott-vetrivel-shanmugam">Link to article</a>
+<b>OTT build once, render many place</b>- <a href="https://www.linkedin.com/pulse/leaky-pipes-build-reactjs-render-canvas-ott-vetrivel-shanmugam">Open the article</a>
 <br/>
-<b>Instruction to build web application builder </b>- <a href="https://www.linkedin.com/pulse/instructions-build-web-application-builder-vetrivel-shanmugam/">Link to article</a>
+<b>Instruction to build web application builder </b>- <a href="https://www.linkedin.com/pulse/instructions-build-web-application-builder-vetrivel-shanmugam/">Open the article</a>
 <br/>
-<b>First code generator built for reactJS </b>- <a href="https://www.linkedin.com/pulse/first-code-generator-built-reactjs-vetrivel-shanmugam/">Link to article</a>              
+<b>First code generator built for reactJS </b>- <a href="https://www.linkedin.com/pulse/first-code-generator-built-reactjs-vetrivel-shanmugam/">Open the article</a>              
 <br/>
