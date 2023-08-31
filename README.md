@@ -32,6 +32,8 @@ From microfluids with light, I chipped away unwanted concepts from it and I have
 <b>Leaky pipes - My thoughts on Appsmith - Scaling from internal tool to Design to code</b><a href="https://www.linkedin.com/pulse/leaky-pipes-design-code-vetrivel-shanmugam/">Open the article</a>
 <br/>
 
+<b>Introducing Designers and Developers</b><a href="https://www.linkedin.com/pulse/introducing-web-designers-developer-vetrivel-shanmugam/">Open the article</a>
+
 <b>Leaky Pipes - Build in ReactJS and render in canvas for OTT platforms</b><a href="https://www.linkedin.com/pulse/leaky-pipes-build-reactjs-render-canvas-ott-vetrivel-shanmugam">Open the article</a>
 <br/>
 
