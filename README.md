@@ -51,3 +51,4 @@ From microfluids with light, I chipped away unwanted concepts from it and I have
 <br/>
 <b>First code generator built for reactJS </b>- <a href="https://www.linkedin.com/pulse/first-code-generator-built-reactjs-vetrivel-shanmugam/">Open the article</a>              
 <br/>
+<cite><center><b>Make machine do my work than me working for machine</b></center></cite>
