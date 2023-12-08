@@ -25,12 +25,6 @@ From microfluids with light, I chipped away unwanted concepts from it and I have
 
 <h3>Checkout my writings on Design and Development</h3>
 
-<b>Designing a designers tool  </b><a href="https://www.linkedin.com/pulse/leaky-pipes-designing-designers-tool-vetrivel-shanmugam">Open the article</a>
-<br/>
-<b>Visual programming - Blank space  </b><a href="https://www.linkedin.com/pulse/leaky-pipes-visual-programming-blank-space-vetrivel-shanmugam/">Open the article</a>
-<br/>
-<b>My thoughts on Appsmith - Scaling from internal tool to Design to code  </b><a href="https://www.linkedin.com/pulse/leaky-pipes-design-code-vetrivel-shanmugam/">Open the article</a>
-<br/>
 <b>Introducing Designers and Developers  </b><a href="https://www.linkedin.com/pulse/introducing-web-designers-developer-vetrivel-shanmugam/">Open the article</a>
 <br />
 <b>Build in ReactJS and render in canvas for OTT platforms  </b><a href="https://www.linkedin.com/pulse/leaky-pipes-build-reactjs-render-canvas-ott-vetrivel-shanmugam">Open the article</a>
@@ -38,14 +32,6 @@ From microfluids with light, I chipped away unwanted concepts from it and I have
 
 <h3>Checkout my writings on Computer science fictional design concept called Black Mass</h3>
 <b>AI and ML versus UI  </b><a href="https://www.linkedin.com/pulse/leaky-pipes-ai-ml-versus-ui-vetrivel-shanmugam">Open the article</a>
-<br/>
-<b>Black Mass design to Automate Job  </b><a href="https://www.linkedin.com/pulse/leaky-pipes-black-mass-design-automate-job-vetrivel-shanmugam">Open the article</a>
-<br/>
-<b>The black mass initiative  </b><a href="https://www.linkedin.com/pulse/leaky-pipes-black-mass-initiative-vetrivel-shanmugam/">Open the article</a>
-<br/>
-<b>Black Mass, Gravity, Qunit unit tests.  </b><a href="https://www.linkedin.com/pulse/black-mass-gravity-qunit-unit-tests-vetrivel-shanmugam/">Open the article</a>
-<br/>
-<b>OTT build once, render many place  </b>- <a href="https://www.linkedin.com/pulse/leaky-pipes-build-reactjs-render-canvas-ott-vetrivel-shanmugam">Open the article</a>
 <br/>
 <b>Instruction to build web application builder </b>- <a href="https://www.linkedin.com/pulse/instructions-build-web-application-builder-vetrivel-shanmugam/">Open the article</a>
 <br/>
