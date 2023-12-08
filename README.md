@@ -12,7 +12,7 @@ Hello,
 
 Make machine work for you than you work for the machines. 
 
-I'm abstract thinker, no regards for best practices an I need more time for my hobbies. 
+I'm abstract thinker, with no regards for best practices.
 
 You can find attempts I had made in the past to make the machine work for me, regardless, practicing writing has more meaning than getting things done.
 
