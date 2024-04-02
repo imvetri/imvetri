@@ -30,4 +30,4 @@ I am also the author of a newsletter called Leaky Pipes, you can refresh some in
 <h3>Checkout my writings - Purely fictuous and chasing a daily routine to het there</h3>
 <b>AI and ML versus UI  </b><a href="https://www.linkedin.com/pulse/leaky-pipes-ai-ml-versus-ui-vetrivel-shanmugam">Open the article</a>
 <br/>
-<b>Black Mass Initiative</b><a href="https://www.linkedin.com/pulse/leaky-pipes-black-mass-initiative-vetrivel-shanmugam"></a>
+<b>Black Mass Initiative</b><a href="https://www.linkedin.com/pulse/leaky-pipes-black-mass-initiative-vetrivel-shanmugam">Open the article</a>
