@@ -18,6 +18,7 @@ I am also the author of a newsletter called Leaky Pipes, you can refresh some in
 
 <h3>Checkout my writings - Fact and non-fiction, computer science related</h3>
 
+<b>Computer programmar -Cool dude with no clue</b><a href="https://www.linkedin.com/newsletters/leaky-pipes-7021166531933790208/">Click to open</a>
 <b>Introducing Designers and Developers  </b><a href="https://www.linkedin.com/pulse/introducing-web-designers-developer-vetrivel-shanmugam/">Click to read</a>
 <br/>
 <b>Build in ReactJS and render in canvas for OTT platforms  </b><a href="https://www.linkedin.com/pulse/leaky-pipes-build-reactjs-render-canvas-ott-vetrivel-shanmugam">Click to read</a>
